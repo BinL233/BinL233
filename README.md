@@ -6,4 +6,4 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/BinL233/count.svg)
 
 ### BinL [Leetcode](https://leetcode.cn/u/binl233/)
 
-* Problem Solved: 140
+* Problem Solved: 150
