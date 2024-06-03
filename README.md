@@ -6,4 +6,4 @@
 
 ### BinL [Leetcode](https://leetcode.cn/u/binl233/)
 
-* Problem Solved: 215
+* Problem Solved: 226
