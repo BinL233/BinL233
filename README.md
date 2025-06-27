@@ -4,4 +4,4 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/BinL233/count.svg)
 
 ### Current Projects
 1. [Personal Website](https://www.binLtools.com)
-2. [FFF (Formatter For FDA submission tool)](https://www.binltools.com/article/documentation/FFF)
+2. [FFF (Formatter For FDA submission)](https://www.binltools.com/article/documentation/FFF)
