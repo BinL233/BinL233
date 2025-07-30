@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binl233/></td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinL233" width="420"/></td>></td>
 
 ### Current Projects
 1. [Personal Website](https://www.binLtools.com)
