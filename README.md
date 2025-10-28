@@ -3,5 +3,5 @@
 Check out my [Portfolio](https://www.binLtools.com/about_me) Website for projects, blogs, and more.
 
 ### Current Projects
-1. [Digital hub - BinLTools](https://www.binLtools.com)
-2. [FFF (Formatter For FDA submission)](https://www.binltools.com/article/documentation/fff)
+1. [FFT (File Formatting Tool)](https://www.binltools.com/article/documentation/fft)
+2. [Digital hub - BinLTools](https://www.binLtools.com)
