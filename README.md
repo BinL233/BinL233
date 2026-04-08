@@ -1,7 +1,5 @@
 # Hi there, I'm BinL
 
----
-
 Check out my [Portfolio](https://www.binLtools.com/about_me) Website for projects, blogs, and more.
 
 ---
