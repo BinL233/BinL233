@@ -4,10 +4,20 @@ Check out my [Portfolio](https://www.binLtools.com/about_me) Website for project
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=BinL233&show_icons=true&theme=transparent&rank_icon=github" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BinL233&theme=transparent" alt="Streak" />
-</p>
+<table>
+  <tr>
+    <th>
+      <img alt="GitHub Stats" src="https://github-readme-stats-ins.vercel.app/api?username=BinL233&show_icons=true&theme=city_lights&bg_color=0000&hide_border=true" align="center" />
+    </th>
+    <th>
+      <img alt="Top Langs" src="https://github-readme-stats-ins.vercel.app/api/top-langs/?username=BinL233&layout=compact&theme=city_lights&bg_color=0000&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
+    </th>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BinL233&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=BinL's%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
+</div>
 
 ---
 
