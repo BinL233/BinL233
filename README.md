@@ -15,10 +15,6 @@ Check out my [Portfolio](https://www.binLtools.com/about_me) Website for project
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BinL233&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=BinL's%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
-</div>
-
 ---
 
 ### Current Projects
